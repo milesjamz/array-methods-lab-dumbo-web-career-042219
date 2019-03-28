@@ -1,5 +1,5 @@
 def using_include(array, element)
-
+  myArray = ["here's", "a", "test"]
 end
 
 def using_sort(array)
